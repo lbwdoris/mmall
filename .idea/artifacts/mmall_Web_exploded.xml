@@ -2,10 +2,10 @@
   <artifact type="exploded-war" name="mmall:Web exploded">
     <output-path>$PROJECT_DIR$/../mmall/out/artifacts/mmall_Web_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="mmall/web/Web" />
+      <element id="javaee-facet-resources" facet="mmall_learning/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="mmall" />
+          <element id="module-output" name="mmall_learning" />
         </element>
       </element>
     </root>
